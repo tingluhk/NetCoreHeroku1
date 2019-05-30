@@ -1,0 +1,14 @@
+C:\Users\G50\source\repos\DotNetCoreHeroku\DotNetCoreHeroku\bin\Debug\netcoreapp2.1\DotNetCoreHeroku.deps.json
+C:\Users\G50\source\repos\DotNetCoreHeroku\DotNetCoreHeroku\bin\Debug\netcoreapp2.1\DotNetCoreHeroku.runtimeconfig.json
+C:\Users\G50\source\repos\DotNetCoreHeroku\DotNetCoreHeroku\bin\Debug\netcoreapp2.1\DotNetCoreHeroku.runtimeconfig.dev.json
+C:\Users\G50\source\repos\DotNetCoreHeroku\DotNetCoreHeroku\bin\Debug\netcoreapp2.1\DotNetCoreHeroku.dll
+C:\Users\G50\source\repos\DotNetCoreHeroku\DotNetCoreHeroku\bin\Debug\netcoreapp2.1\DotNetCoreHeroku.pdb
+C:\Users\G50\source\repos\DotNetCoreHeroku\DotNetCoreHeroku\obj\Debug\netcoreapp2.1\DotNetCoreHeroku.csprojAssemblyReference.cache
+C:\Users\G50\source\repos\DotNetCoreHeroku\DotNetCoreHeroku\obj\Debug\netcoreapp2.1\DotNetCoreHeroku.csproj.CoreCompileInputs.cache
+C:\Users\G50\source\repos\DotNetCoreHeroku\DotNetCoreHeroku\obj\Debug\netcoreapp2.1\DotNetCoreHeroku.RazorAssemblyInfo.cache
+C:\Users\G50\source\repos\DotNetCoreHeroku\DotNetCoreHeroku\obj\Debug\netcoreapp2.1\DotNetCoreHeroku.RazorAssemblyInfo.cs
+C:\Users\G50\source\repos\DotNetCoreHeroku\DotNetCoreHeroku\obj\Debug\netcoreapp2.1\DotNetCoreHeroku.AssemblyInfoInputs.cache
+C:\Users\G50\source\repos\DotNetCoreHeroku\DotNetCoreHeroku\obj\Debug\netcoreapp2.1\DotNetCoreHeroku.AssemblyInfo.cs
+C:\Users\G50\source\repos\DotNetCoreHeroku\DotNetCoreHeroku\obj\Debug\netcoreapp2.1\DotNetCoreHeroku.RazorTargetAssemblyInfo.cache
+C:\Users\G50\source\repos\DotNetCoreHeroku\DotNetCoreHeroku\obj\Debug\netcoreapp2.1\DotNetCoreHeroku.dll
+C:\Users\G50\source\repos\DotNetCoreHeroku\DotNetCoreHeroku\obj\Debug\netcoreapp2.1\DotNetCoreHeroku.pdb
